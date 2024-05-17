@@ -1,0 +1,1 @@
+npx json-server --watch .\data\rdb.json --port 8080
